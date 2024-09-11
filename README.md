@@ -19,7 +19,4 @@ AI Customer Support is an AI-powered chatbot application designed to handle vari
 - Firebase
 - AWS
 
-## Demo
-- Video Demo: https://youtu.be/RujNQxEE4tw
-- Updated Live Demo: https://ai-customer-support-two.vercel.app
-- Old Live Demo: http://ec2-54-176-255-80.us-west-1.compute.amazonaws.com:3000/
+
